@@ -1,0 +1,39 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+.vs/
+.utmp/
+MemoryCaptures/
+
+# IDE generated files
+.vscode/
+.idea/
+
+# Unity-generated solution and project files
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Contains private Vuforia license keys
+Assets/Resources/VuforiaConfiguration.asset
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+/QCAR/somedata16
